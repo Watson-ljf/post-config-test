@@ -1,1 +1,4 @@
-
+database:
+    ip: 10.100.2.12
+    username: root
+    password: Wo4heike
